@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="data_structures"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/C++/cpp_code/data_structures/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structures">
+				<Option output="D:/C++/cpp_code/data_structures/cmake-build-debug/data_structures.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/C++/cpp_code/data_structures/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw1\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw1\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw1\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw1\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw1\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw1\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw1\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+					<Add directory="/mingw/lib/gcc/mingw32/6.3.0/../../../../include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structures"/>
+					<CompileFile command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structures/fast">
+				<Option output="D:/C++/cpp_code/data_structures/cmake-build-debug/data_structures.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/C++/cpp_code/data_structures/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw1\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw1\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw1\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw1\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw1\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw1\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw1\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+					<Add directory="/mingw/lib/gcc/mingw32/6.3.0/../../../../include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structures/fast"/>
+					<CompileFile command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/C++/cpp_code/data_structures/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/C++/cpp_code/data_structures/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw1/bin/mingw32-make.exe -f &quot;D:/C++/cpp_code/data_structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/C++/cpp_code/data_structures/Graph/DSet.cpp">
+			<Option target="data_structures"/>
+		</Unit>
+		<Unit filename="D:/C++/cpp_code/data_structures/Graph/DSet.h">
+			<Option target="data_structures"/>
+		</Unit>
+		<Unit filename="D:/C++/cpp_code/data_structures/Graph/Graph.cpp">
+			<Option target="data_structures"/>
+		</Unit>
+		<Unit filename="D:/C++/cpp_code/data_structures/Graph/Graph.h">
+			<Option target="data_structures"/>
+		</Unit>
+		<Unit filename="D:/C++/cpp_code/data_structures/Graph/Node.h">
+			<Option target="data_structures"/>
+		</Unit>
+		<Unit filename="D:/C++/cpp_code/data_structures/Stack_Queue_List/LQueue.h">
+			<Option target="data_structures"/>
+		</Unit>
+		<Unit filename="D:/C++/cpp_code/data_structures/Stack_Queue_List/LStack.h">
+			<Option target="data_structures"/>
+		</Unit>
+		<Unit filename="D:/C++/cpp_code/data_structures/Stack_Queue_List/Queue.h">
+			<Option target="data_structures"/>
+		</Unit>
+		<Unit filename="D:/C++/cpp_code/data_structures/Stack_Queue_List/Stack.h">
+			<Option target="data_structures"/>
+		</Unit>
+		<Unit filename="D:/C++/cpp_code/data_structures/Stack_Queue_List/dList.h">
+			<Option target="data_structures"/>
+		</Unit>
+		<Unit filename="D:/C++/cpp_code/data_structures/Stack_Queue_List/rList.h">
+			<Option target="data_structures"/>
+		</Unit>
+		<Unit filename="D:/C++/cpp_code/data_structures/Stack_Queue_List/sList.h">
+			<Option target="data_structures"/>
+		</Unit>
+		<Unit filename="D:/C++/cpp_code/data_structures/main.cpp">
+			<Option target="data_structures"/>
+		</Unit>
+		<Unit filename="D:/C++/cpp_code/data_structures/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

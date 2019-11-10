@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="data_structures" targetName="data_structures" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5bcfae1-c0fe-48b3-9c23-335e582f1c67" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="data_structures" />
+  </component>
+  <component name="ProjectId" id="1RJcmM8MkCqwSOZmpQtsdKXqMHk" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../algorithms_and_data_structures/disjoint_set" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\C++\cpp_code\data_structures\Stack_Queue_List" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="data_structures" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structures" TARGET_NAME="data_structures" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structures" RUN_TARGET_NAME="data_structures">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5bcfae1-c0fe-48b3-9c23-335e582f1c67" name="Default Changelist" comment="" />
+      <created>1569388796250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569388796250</updated>
+      <workItem from="1569388799415" duration="5255000" />
+      <workItem from="1569428808918" duration="12225000" />
+      <workItem from="1569493213506" duration="5701000" />
+      <workItem from="1569502700724" duration="857000" />
+      <workItem from="1569671849506" duration="118000" />
+      <workItem from="1569790929187" duration="2622000" />
+      <workItem from="1569848771204" duration="7435000" />
+      <workItem from="1569952300294" duration="643000" />
+      <workItem from="1569993220850" duration="73000" />
+      <workItem from="1572520218457" duration="4079000" />
+      <workItem from="1572612547272" duration="5213000" />
+      <workItem from="1572771996532" duration="4416000" />
+      <workItem from="1572968302672" duration="403000" />
+      <workItem from="1573022449772" duration="139000" />
+      <workItem from="1573051908233" duration="915000" />
+      <workItem from="1573208695778" duration="12000" />
+      <workItem from="1573305360320" duration="4123000" />
+      <workItem from="1573376954885" duration="6308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Stack_Queue_List/LQueue.h</url>
+          <line>51</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Stack_Queue_List/LQueue.h</url>
+          <line>52</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="phead" />
+        <watch expression="min_way" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

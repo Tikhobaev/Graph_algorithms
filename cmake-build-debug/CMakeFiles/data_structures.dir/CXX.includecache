@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++/cpp_code/data_structures/Graph/DSet.h
+
+D:/C++/cpp_code/data_structures/Graph/Graph.cpp
+algorithm
+-
+Graph.h
+D:/C++/cpp_code/data_structures/Graph/Graph.h
+DSet.h
+D:/C++/cpp_code/data_structures/Graph/DSet.h
+set
+-
+
+D:/C++/cpp_code/data_structures/Graph/Graph.h
+Node.h
+D:/C++/cpp_code/data_structures/Graph/Node.h
+queue
+-
+
+D:/C++/cpp_code/data_structures/Graph/Node.h
+iostream
+-
+vector
+-
+
